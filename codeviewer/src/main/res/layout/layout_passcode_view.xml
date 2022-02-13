@@ -4,6 +4,7 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:gravity="center_horizontal"
+    android:background="@drawable/gradient_background"
               android:orientation="vertical">
 
     <RelativeLayout
@@ -70,7 +71,7 @@
     <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="312dp"
-        android:background="@drawable/lock_bg_white"
+
         android:padding="48dp">
 
         <TextView
